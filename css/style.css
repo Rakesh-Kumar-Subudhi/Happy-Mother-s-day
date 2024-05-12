@@ -20,7 +20,7 @@ body {
   stroke-dasharray: 2500;
   stroke-dashoffset: 2500;
   fill: transparent;
-  stroke: #fff;
+  stroke: #ff0505;
   animation: outer-line 3s linear forwards, fill-blue 0.15s linear forwards 3s;
 }
 
@@ -40,7 +40,7 @@ body {
  @keyframes fill-blue{
   from { 
     fill: transparent;
-    stroke: #fff;
+    stroke: #F2385A;
   }
   to { 
     fill: #F2385A;
@@ -52,7 +52,7 @@ body {
   stroke-dasharray: 5000;
   stroke-dashoffset: 5000;
   fill: transparent;
-  stroke: #fff;
+  stroke: #c95e5e;
   animation: border 3s linear forwards;
 }
 
